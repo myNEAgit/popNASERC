@@ -107,6 +107,10 @@
     font-weight: 100;
 }
 
+.fs-14 {
+    font-size: 14px !important;
+}
+
 .height-50 {
     min-height: 50px;
 }
@@ -123,12 +127,24 @@
     margin-bottom: 3px;
 }
 
+.mb-4 {
+    margin-bottom: 4px;
+}
+
 .mb-5 {
     margin-bottom: 15px;
 }
 
+.mb-10 {
+    margin-bottom: 10px;
+}
+
 .mt-0 {
     margin-top: 0;
+}
+
+.mt-5 {
+    margin-top: 5px;
 }
 
 .mt-10-minus {
@@ -137,6 +153,10 @@
 
 .p10 {
     padding: 10px;
+}
+
+.pb-6 {
+    padding-bottom: 6px !important;
 }
 
 .pt-0 {
@@ -158,6 +178,10 @@
 .title-margin {
     margin-bottom: 0;
     margin-top: 17px;
+}
+
+.w-20-p {
+    width: 20% !important;
 }
 
 #culture {
